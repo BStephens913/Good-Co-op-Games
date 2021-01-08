@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require './lib/games'
+Games::CLI.new.call
